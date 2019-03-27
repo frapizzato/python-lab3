@@ -75,7 +75,7 @@ def main():
     Here start the managing of the bot
     """
     #create the EventHandler
-    updater = Updater("892813718:AAEmF6H-2pc5qyI_97W28dLRhd8xAA73V1w")
+    updater = Updater("TOKEN")
 
     #get the dispacer to register handlers
     dp = updater.dispatcher
